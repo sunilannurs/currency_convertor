@@ -1,4 +1,4 @@
-/sunil-env
+/virt_env
 *.pyc
 .vscode/*
 db.sqlite3
